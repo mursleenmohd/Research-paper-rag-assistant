@@ -241,10 +241,6 @@ UPLOAD_DIR=./data/uploads
 
 ---
 
-# Research Paper RAG Assistant
-
-Built as a hands-on project to learn and implement Retrieval-Augmented Generation systems using Python and modern AI tooling.
-
 ## Tech Stack
 
 | Technology | Purpose |
